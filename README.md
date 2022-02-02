@@ -1,6 +1,6 @@
 ***hey there! i'm moochezz!***
 
- — i'm most skilled in lua
+ — i'm mainly skilled in lua
 
  — i'm currently trying out c++, although that may change
 
